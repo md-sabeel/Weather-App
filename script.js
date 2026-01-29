@@ -15,7 +15,7 @@ async function getWeather() {
         errorMsg.textContent = "";
 
         const response = await fetch(
-            `http://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${apiKey}`
+            `https://api.openweathermap.org/data/2.5/weather?q=${city}&APPID=${apiKey}`
         );
 
         if (!response.ok) {
