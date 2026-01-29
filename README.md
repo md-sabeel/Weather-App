@@ -21,12 +21,13 @@ A simple and responsive Weather Application built using **HTML, CSS, and JavaScr
 ---
 
 ## 📸 Screenshot
-(Add a screenshot here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/233f865e-5a59-44d5-8aed-4a3b9f38ed06" />
+
 
 ---
 
 ## 🌐 Live Demo
-(Enable GitHub Pages and paste the link here)
+https://md-sabeel.github.io/Weather-App/
 
 ---
 
